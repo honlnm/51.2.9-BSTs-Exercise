@@ -170,7 +170,7 @@ binarySearchTree.insert(50);
 binarySearchTree.bfs() // [15, 10, 20, 1, 12, 50, 5]
 ```
 
-**Further Study**
+**Further Study** OPTIONAL
 
 ## **remove**
 
